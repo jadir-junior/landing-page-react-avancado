@@ -25,7 +25,9 @@ const App = ({ Component, pageProps }: AppProps) => {
             'React Avançado - Crie aplicações reais com NextJS, GraphQL e mais.',
           description:
             'Aprenda a criar um Ecommerce completo, indo do Backend ao Frontend utilizando tecnologias como ReactJS, NextJS, Strapi, GraphQL, Apollo e muito mais!',
-          images: [{ url: 'https://reactavancado.com.br/img/cover.png' }],
+          images: [
+            { url: 'https://reactavancado.com.br/img/black-friday-cover.png' }
+          ],
           site_name: 'React Avançado',
           locale: 'pt_BR'
         }}
