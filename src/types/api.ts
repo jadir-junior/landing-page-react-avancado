@@ -86,7 +86,7 @@ export type SectionAboutUsProps = {
 }
 
 export type Review = {
-  id: string
+  id: number
   name: string
   text: string
   photo: {
